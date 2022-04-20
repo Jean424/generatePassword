@@ -12,6 +12,6 @@ Once all of the elements are responded to, a random password is generated in the
 
 ## Live Link
 
-https://jean424.github.io/First-CSS-Portfolio/
+https://jean424.github.io/generatePassword/
 
 ![Screenshot of deployed application](./Assets/ScreenShot.png)
